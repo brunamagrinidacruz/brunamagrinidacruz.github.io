@@ -32,8 +32,8 @@ header h1 {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #fff;
