@@ -71,6 +71,10 @@ main {
     font-size: 14px;
 }
 
+.gift-container p {
+    font-size: 18px;
+}
+
 @media (max-width: 800px) {
     main {
         grid-template-columns: repeat(2, 1fr);
